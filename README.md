@@ -1,1 +1,1 @@
-# calculadora-ecol-gica
+# calculadora-ecologica
